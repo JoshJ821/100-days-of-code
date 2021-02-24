@@ -7,4 +7,4 @@
 
 **Thoughts:** excited to try to double down on learning. Goal is to continue FCC with js and start Python course. FCC Python course was not my style, have started Angela Yu's Udemy course instead as it is more varied and heavily focused on projects
 
-**Links to work:**
+**Links to work:** https://repl.it/@jojadev
