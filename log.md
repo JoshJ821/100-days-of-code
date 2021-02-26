@@ -17,3 +17,8 @@
 
 **Links to work:** https://repl.it/@jojadev / https://repl.it/@jojadev/bart-quote-a-tron
 
+### Day 3: Febuary 25, 2021
+**Today's Progress**: Learned how to do some if statements, leanred about .capitalize(), continued udemy
+**Thoughts:** Still enjoying learning and happy with my choice to jumpstart with both Python and 100daysofcode
+**Links to work:** https://github.com/jojadev/simpsons-test
+
