@@ -22,3 +22,12 @@
 **Thoughts:** Still enjoying learning and happy with my choice to jumpstart with both Python and 100daysofcode
 **Links to work:** https://github.com/jojadev/simpsons-test
 
+### Day 4: Febuary 26, 2021
+**Today's Progress**: did some more quizzes, played around a lot with counting strings
+**Thoughts:** Still enjoying learning and happy with my choice to jumpstart with both Python and 100daysofcode
+**Links to work:** https://repl.it/@jojadev/count-SMS-Chars#main.py
+
+### Day 5: Febuary 27, 2021
+**Today's Progress**: learned about maths functions in Python and f-strings
+**Thoughts:** f-strings feels like a super power after how I was handling disparate types. loving the skill checks on my course
+**Links to work:** https://repl.it/@jojadev/day-2-2-exercise#main.py
