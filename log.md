@@ -30,4 +30,4 @@
 ### Day 5: Febuary 27, 2021
 **Today's Progress**: learned about maths functions in Python and f-strings
 **Thoughts:** f-strings feels like a super power after how I was handling disparate types. loving the skill checks on my course
-**Links to work:** https://repl.it/@jojadev/day-2-2-exercise#main.py
+**Links to work:** https://repl.it/@jojadev/day-2-2-exercise#main.py https://repl.it/@jojadev/tip-calculator-start#main.py
