@@ -40,7 +40,7 @@
 ### Day 7: March 1, 2021
 **Today's Progress**: worked on elif statements and nested statements
 **Thoughts:** after my day off, i was itching to do more skill checks with Python
-**Links to work:**  https://repl.it/@jojadev/carnival-tickets#main.py 
+**Links to work:**  https://repl.it/@jojadev/carnival-tickets#main.py https://repl.it/@jojadev/day-3-2-exercise#main.py
 
 ### Day 5: Febuary 27, 2021
 **Today's Progress**: learned about maths functions in Python and f-strings
