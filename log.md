@@ -31,3 +31,43 @@
 **Today's Progress**: learned about maths functions in Python and f-strings
 **Thoughts:** f-strings feels like a super power after how I was handling disparate types. loving the skill checks on my course
 **Links to work:** https://repl.it/@jojadev/day-2-2-exercise#main.py https://repl.it/@jojadev/tip-calculator-start#main.py
+
+### Day 6: Febuary 28, 2021
+**Today's Progress**: took a rest day from a long week
+**Thoughts:**
+**Links to work:**
+
+### Day 7: March 1, 2021
+**Today's Progress**: worked on elif statements and nested statements
+**Thoughts:** after my day off, i was itching to do more skill checks with Python
+**Links to work:**  https://repl.it/@jojadev/carnival-tickets#main.py 
+
+### Day 5: Febuary 27, 2021
+**Today's Progress**: learned about maths functions in Python and f-strings
+**Thoughts:** f-strings feels like a super power after how I was handling disparate types. loving the skill checks on my course
+**Links to work:** https://repl.it/@jojadev/day-2-2-exercise#main.py https://repl.it/@jojadev/tip-calculator-start#main.py
+
+### Day 5: Febuary 27, 2021
+**Today's Progress**: learned about maths functions in Python and f-strings
+**Thoughts:** f-strings feels like a super power after how I was handling disparate types. loving the skill checks on my course
+**Links to work:** https://repl.it/@jojadev/day-2-2-exercise#main.py https://repl.it/@jojadev/tip-calculator-start#main.py
+
+### Day 5: Febuary 27, 2021
+**Today's Progress**: learned about maths functions in Python and f-strings
+**Thoughts:** f-strings feels like a super power after how I was handling disparate types. loving the skill checks on my course
+**Links to work:** https://repl.it/@jojadev/day-2-2-exercise#main.py https://repl.it/@jojadev/tip-calculator-start#main.py
+
+### Day 5: Febuary 27, 2021
+**Today's Progress**: learned about maths functions in Python and f-strings
+**Thoughts:** f-strings feels like a super power after how I was handling disparate types. loving the skill checks on my course
+**Links to work:** https://repl.it/@jojadev/day-2-2-exercise#main.py https://repl.it/@jojadev/tip-calculator-start#main.py
+
+### Day 5: Febuary 27, 2021
+**Today's Progress**: learned about maths functions in Python and f-strings
+**Thoughts:** f-strings feels like a super power after how I was handling disparate types. loving the skill checks on my course
+**Links to work:** https://repl.it/@jojadev/day-2-2-exercise#main.py https://repl.it/@jojadev/tip-calculator-start#main.py
+
+### Day 5: Febuary 27, 2021
+**Today's Progress**: learned about maths functions in Python and f-strings
+**Thoughts:** f-strings feels like a super power after how I was handling disparate types. loving the skill checks on my course
+**Links to work:** https://repl.it/@jojadev/day-2-2-exercise#main.py https://repl.it/@jojadev/tip-calculator-start#main.py
