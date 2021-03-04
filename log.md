@@ -42,15 +42,15 @@
 **Thoughts:** after my day off, i was itching to do more skill checks with Python
 **Links to work:**  https://repl.it/@jojadev/carnival-tickets#main.py https://repl.it/@jojadev/day-3-2-exercise#main.py
 
-### Day 5: Febuary 27, 2021
+### Day 8: March 2, 2021
 **Today's Progress**: learned about maths functions in Python and f-strings
 **Thoughts:** f-strings feels like a super power after how I was handling disparate types. loving the skill checks on my course
 **Links to work:** https://repl.it/@jojadev/day-2-2-exercise#main.py https://repl.it/@jojadev/tip-calculator-start#main.py
 
-### Day 5: Febuary 27, 2021
-**Today's Progress**: learned about maths functions in Python and f-strings
-**Thoughts:** f-strings feels like a super power after how I was handling disparate types. loving the skill checks on my course
-**Links to work:** https://repl.it/@jojadev/day-2-2-exercise#main.py https://repl.it/@jojadev/tip-calculator-start#main.py
+### Day 9: March 3, 2021
+**Today's Progress**: got a lot deeper into nested statements, made a silly true love game and text adventure game
+**Thoughts:** even when hitting challenges, this has been super fun and satisfying
+**Links to work:** https://repl.it/@jojadev/treasure-island-start#main.py
 
 ### Day 5: Febuary 27, 2021
 **Today's Progress**: learned about maths functions in Python and f-strings
